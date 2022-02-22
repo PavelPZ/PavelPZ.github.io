@@ -18,7 +18,7 @@
 
 ## Examples for medium article (without Riverpod_navigator package)
 
-[Article draft](https://medium.com/@pavelzika/simple-flutter-navigator-2-0-with-riverpod-c55b627da8a6)
+[Article draft](https://medium.com/@pavelzika/c55b627da8a6)
 
 ### [A simple example](medium_main/index.html)
 
