@@ -6,5 +6,3 @@ import 'src/widgets.dart';
 void main() {
   runApp(ProviderScope(child: const AppRoot()));
 }
-
-// flutter build web --web-renderer html

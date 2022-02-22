@@ -3,16 +3,19 @@
 .packages
 
 # Conventional directory for build output.
-build/
 
 android/
 .dart_tool/
 .idea/
-build/
 ios/
-web/
 pubspec.lock
 windows/
 # **/*.g.dart
 # **/*.freezed.dart
 trash/
+
+riverpod_navigator_example/web/
+
+*/build/**
+
+!build/web/**
