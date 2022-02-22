@@ -8,8 +8,19 @@
   <div id="content"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    document.getElementById('content').innerHTML =
-      marked.parse('# Marked in the browser\n\nRendered by **marked**.');
+function getText(){
+  var request = new XMLHttpRequest();
+  request.open('GET', 'markup.md', true);
+  request.send(null);
+  request.onreadystatechange = function () {
+    if (request.readyState === 4 && request.status === 200) {
+      var type = request.getResponseHeader('Content-Type');
+      if (type.indexOf("text") !== 1) {
+        document.getElementById('content').innerHTML = marked.parse(request.responseText);
+      }
+    }
+  }
+}
   </script>
 </body>
 </html>
