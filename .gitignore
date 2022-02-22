@@ -14,8 +14,3 @@ windows/
 # **/*.freezed.dart
 trash/
 
-riverpod_navigator_example/web/
-
-*/build/**
-
-!build/web/**
