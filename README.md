@@ -21,7 +21,7 @@
 
 # Examples for medium article (without Riverpod_navigator package)
 
-- [Article draft](https://medium.com/@pavelzika/c55b627da8a6)
+- [Article draft](https://medium.com/p/c55b627da8a6/edit)
 
 #### Run [A simple example](medium_main/index.html)
 
