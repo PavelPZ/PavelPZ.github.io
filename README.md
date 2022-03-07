@@ -7,7 +7,7 @@
 
 - [Source code](https://github.com/PavelPZ/riverpod_navigator/blob/main/examples/doc/lib/simple.dart)
 
-#### Run [Async navigation and splash screen](doc_async/index.html)
+#### Run [Async navigation](doc_async/index.html)
 
 - [Source code](https://github.com/PavelPZ/riverpod_navigator/blob/main/examples/doc/lib/async.dart)
 
