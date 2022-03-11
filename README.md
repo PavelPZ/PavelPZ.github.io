@@ -26,7 +26,21 @@
 #### Run [A simple example](medium_main/index.html)
 
 - [Source code](https://github.com/PavelPZ/riverpod_navigator/blob/main/examples/doc/lib/medium_main.dart)
+- [DartPad](https://dartpad.dev/?id=970ba56347a19d86ccafeb551b013fd3)
 
 #### Run [Login flow example](medium_more_providers/index.html)
 
 - [Source code](https://github.com/PavelPZ/riverpod_navigator/blob/main/examples/doc/lib/medium_more_providers.dart)
+
+
+# other
+
+https://github.com/rrousselGit/river_pod/issues/946#issuecomment-1063026535
+
+https://flagpedia.net/download
+
+https://pub.dev/packages/flutter_spinkit 
+
+https://docs.codemagic.io/
+
+https://medium.com/flutter-community/adding-a-splash-screen-to-flutter-web-7930e5e44bd
