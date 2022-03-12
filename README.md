@@ -35,12 +35,16 @@
 
 # other
 
-https://github.com/rrousselGit/river_pod/issues/946#issuecomment-1063026535
+[https://github.com/rrousselGit/river_pod/issues/946#issuecomment-1063026535]
 
-https://flagpedia.net/download
+[https://flagpedia.net/download]
 
-https://pub.dev/packages/flutter_spinkit 
+[https://pub.dev/packages/flutter_spinkit]
 
-https://docs.codemagic.io/
+[https://docs.codemagic.io/]
 
-https://medium.com/flutter-community/adding-a-splash-screen-to-flutter-web-7930e5e44bd
+[https://medium.com/flutter-community/adding-a-splash-screen-to-flutter-web-7930e5e44bd]
+
+### responsible drawer
+
+[https://codewithandrea.com/articles/flutter-responsive-layouts-split-view-drawer-navigation/]
