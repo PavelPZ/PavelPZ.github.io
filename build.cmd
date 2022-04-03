@@ -1,4 +1,4 @@
-set proc=c:\pavelpz.github.io\buildProc.cmd
+set proc=d:\pavelpz.github.io\buildProc.cmd
 rem %0 \examples\riverpod_navigator_example\
 rem %1 /riverpod_navigator_example/
 rem %2 \riverpod_navigator_example\
